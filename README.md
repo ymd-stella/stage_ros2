@@ -1,4 +1,7 @@
 # stage_ros2
+
+[![Join the chat at https://gitter.im/stage_ros2/community](https://badges.gitter.im/stage_ros2/community.svg)](https://gitter.im/stage_ros2/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ROS2 wrapper for the Stage simulator.
 
 # Example
